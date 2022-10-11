@@ -8,8 +8,8 @@ favicon: 'assets/images/favicon.ico'
 author: Sal
 paginate: 30
 disqus: 'demowebsite'
-locale: ar_sa
-lang: ar_sa
+locale: ar_AR
+lang: ar_AR
 feed_items: 10
 feed_update_period: daily
 feed_update_frequency: 1
